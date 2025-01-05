@@ -1,3 +1,2 @@
 # git_test
-Hello Odin! 
-change 2
+Hello Odin!
