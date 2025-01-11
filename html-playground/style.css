@@ -1,0 +1,24 @@
+.heading {
+    text-align: center;
+    background-color: black;
+    color: azure;
+
+}
+
+.heading.main {
+    font-size: 38px;
+}
+
+.heading.sub {
+    color: rgb(93, 233, 140);
+}
+
+.date {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    border-color: black;
+    padding: 10%;
+}
